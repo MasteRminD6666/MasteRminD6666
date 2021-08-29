@@ -63,9 +63,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/Coders-911/Fitness-Guide/pull/36) in [Coders-911/Fitness-Guide](https://github.com/Coders-911/Fitness-Guide)
-5. 🎉 Merged PR [#10](https://github.com/Coders-911/Fitness-Guide/pull/42) in [Coders-911/Fitness-Guide](https://github.com/Coders-911/Fitness-Guide)
+1. ❌ Closed PR [#11](https://github.com/Coders-911/Fitness-Guide/pull/36) in [Coders-911/Fitness-Guide](https://github.com/Coders-911/Fitness-Guide)
+2. 🎉 Merged PR [#10](https://github.com/Coders-911/Fitness-Guide/pull/42) in [Coders-911/Fitness-Guide](https://github.com/Coders-911/Fitness-Guide)
 <!--END_SECTION:activity-->
 
 </details>
