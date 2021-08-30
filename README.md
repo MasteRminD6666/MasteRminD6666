@@ -1,4 +1,19 @@
-### Hi there, I'm Rami Zaitoun - aka [MasterMind](https://mastermind6666.github.io/Rami_Zaitoun/) 👋
+## Hi there, I'm Rami Zaitoun - aka [MasterMind](https://mastermind6666.github.io/Rami_Zaitoun/) 👋
+
+#### A web-Devloper documenting his journey
+
+
+<br/>
+<img align="left" alt="mastermind" width="200px" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" />
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 
 
 
@@ -6,15 +21,15 @@
 
 - 🔭 I'm
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other devloper
+- 👯 I’m looking to collaborate with other devlopers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar 
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mastermind | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="mastermind | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mastermind | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -33,6 +48,8 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://www.hbmacit.com/wp-content/uploads/2020/09/python_logo.png" />][Python]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://splendornet.com/wp-content/uploads/2019/01/django.png" />][Django]
 
 <br />
 <br />
@@ -43,14 +60,14 @@
 ### 📕 Latest Topics I Read
 
 <!-- BLOG-POST-LIST:START -->
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
+- [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read02)
+- [Growth-Minsdet](https://mastermind6666.github.io/reading-notes/Code102-Intro-to-Software-Development/Growth-Minsdet)
 - [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
-- [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
+- [CSS Transforms](https://mastermind6666.github.io/reading-notes/Code201-Foundations-of-Software-Development/Read14)
+- [Rest-Api](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://github.com/MasteRminD6666/reading-notes)
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasteRminD6666&show_icons=true&theme=radical)
@@ -73,12 +90,7 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://mastermind6666.github.io/Rami_Zaitoun/
 [twitter]: https://twitter.com/MastRmin
@@ -97,7 +109,9 @@
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [Node]: https://nodejs.org/en/
 [mysql]: https://www.mysql.com
+[Python]: https://www.python.org
 [Mongo]: https://www.mongodb.com
+[Django]: https://www.djangoproject.com
 [Git]: https://git-scm.com
 [GitHub]: https://git-scm.com
 [terminal]: https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab
