@@ -1,9 +1,14 @@
+<img align="right" alt="mastermind" width="200px" src="https://c.tenor.com/rR90LoR-KUIAAAAj/codemodeon-code.gif" />
+
 ## Hi there, I'm Rami Zaitoun - aka [MasterMind](https://mastermind6666.github.io/Rami_Zaitoun/) 👋
 
 #### A web-Devloper documenting his journey
 
 
 <br/>
+<br/>
+
+<img align="right" alt="mastermind" width="200px" src="https://c.tenor.com/7E7BUWA1KxwAAAAj/gobo-webee.gif" />
 <img align="left" alt="mastermind" width="200px" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" />
 <br/>
 <br/>
@@ -12,6 +17,10 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+
 
 
 
@@ -19,11 +28,15 @@
 
 ## I'm a Front-End Developer,!!
 
+<img align="right" alt="mastermind" width="200px" src="https://c.tenor.com/NCRHhqkXrJYAAAAj/programmers-go-internet.gif" />
+
+
+
 - 🔭 I'm
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 🤣 😢
 - 👯 I’m looking to collaborate with other devlopers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play guitar 
+- ⚡ fact: a guitar player 
 
 ### Connect with me:
 
@@ -72,12 +85,11 @@
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasteRminD6666&show_icons=true&theme=radical)
 
----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasteRminD6666)](https://github.com/MasteRminD6666/github-readme-stats)
 
----
-[![MasteRminD6666's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MasteRminD6666)](https://github.com/MasteRminD6666/MasteRminD6666)
+
+
+
 
 
 <details>
@@ -90,6 +102,11 @@
 
 </details>
 
+
+----------
+
+
+<img align="left" alt="mastermind" width="200px" src="https://lh3.googleusercontent.com/proxy/OOq3LjxU11MNs6UY6ihh-Gqlm1DJZj47rHdS4CXqLk3d1veZACV0jMZ7tPxOeKyoOlpEY2Vp2B5kQFIttPbPS0AJJ4AHCuk" />
 
 
 [website]: https://mastermind6666.github.io/Rami_Zaitoun/
