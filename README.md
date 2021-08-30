@@ -73,11 +73,11 @@
 ### 📕 Latest Topics I Read
 
 <!-- BLOG-POST-LIST:START -->
-- [React Props and State](https://mastermind6666.github.io/reading-notes/Code301-Intermediate-Software-Development/Read02)
-- [Growth-Minsdet](https://mastermind6666.github.io/reading-notes/Code102-Intro-to-Software-Development/Growth-Minsdet)
+- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
+- [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
 - [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-- [CSS Transforms](https://mastermind6666.github.io/reading-notes/Code201-Foundations-of-Software-Development/Read14)
-- [Rest-Api](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
+- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
+- [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://github.com/MasteRminD6666/reading-notes)
