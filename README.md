@@ -32,8 +32,8 @@
 
 
 
-- 🔭 I'm
-- 🌱 I’m currently learning everything 🤣 😢
+- 🔭 it's not how much time you have it's how you use it
+- 🌱 I’m currently learning everything 💻🤣 😢
 - 👯 I’m looking to collaborate with other devlopers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ fact: a guitar player 
