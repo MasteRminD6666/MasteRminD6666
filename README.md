@@ -104,10 +104,9 @@
 </details>
 
 
-----------
 
 
-<img align="left" alt="mastermind" width="200px" src="https://lh3.googleusercontent.com/proxy/OOq3LjxU11MNs6UY6ihh-Gqlm1DJZj47rHdS4CXqLk3d1veZACV0jMZ7tPxOeKyoOlpEY2Vp2B5kQFIttPbPS0AJJ4AHCuk" />
+
 
 
 [website]: https://mastermind6666.github.io/Rami_Zaitoun/
