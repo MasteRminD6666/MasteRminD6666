@@ -2,7 +2,8 @@
 
 ## Hi there, I'm Rami Zaitoun - aka [MasterMind](https://mastermind6666.github.io/Rami_Zaitoun/) 👋
 
-#### A web-Devloper documenting his journey
+#### A web-Devloper documenting his journey  || [Portfolio](https://ramizaitoun-portfolio.netlify.app)
+
 
 
 <br/>
