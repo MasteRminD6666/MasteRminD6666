@@ -1,10 +1,8 @@
 <img align="right" alt="mastermind" width="200px" src="https://c.tenor.com/rR90LoR-KUIAAAAj/codemodeon-code.gif" />
 
-<h1 align="center">Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rami Zaitoun </h1>
+<h1 align="center">Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Rami Zaitoun </h1>
 
-<h1 align="center"> A web-Devloper documenting his journey  </h1> 
 
-[![Porfolio](https://static.wixstatic.com/media/6cef79_2ed14995a4104c3ab61566bce9992255~mv2.gif)](https://ramizaitoun-portfolio.netlify.app)
 
 <br/>
 <br/>
@@ -14,13 +12,7 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 
 
@@ -72,6 +64,7 @@
 ---
 
 
+[![Porfolio](https://static.wixstatic.com/media/6cef79_2ed14995a4104c3ab61566bce9992255~mv2.gif)](https://ramizaitoun-portfolio.netlify.app)
 ### 📕 Latest Topics I Read
 
 <!-- BLOG-POST-LIST:START -->
