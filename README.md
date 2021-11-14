@@ -1,16 +1,16 @@
 <img align="right" alt="mastermind" width="200px" src="https://c.tenor.com/rR90LoR-KUIAAAAj/codemodeon-code.gif" />
 
-## Hi there, I'm Rami Zaitoun - aka [MasterMind](https://mastermind6666.github.io/Rami_Zaitoun/) 👋
+<h1 align="center">Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rami Zaitoun </h1>
 
-#### A web-Devloper documenting his journey  || [Portfolio](https://ramizaitoun-portfolio.netlify.app)
+<h1 align="center"> A web-Devloper documenting his journey  </h1> 
 
-
+[![Porfolio](https://static.wixstatic.com/media/6cef79_2ed14995a4104c3ab61566bce9992255~mv2.gif)](https://ramizaitoun-portfolio.netlify.app)
 
 <br/>
 <br/>
 
-<img align="right" alt="mastermind" width="200px" src="https://c.tenor.com/7E7BUWA1KxwAAAAj/gobo-webee.gif" />
-<img align="left" alt="mastermind" width="200px" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" />
+<!-- <img align="right" alt="mastermind" width="200px" src="https://c.tenor.com/7E7BUWA1KxwAAAAj/gobo-webee.gif" />
+<img align="left" alt="mastermind" width="200px" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" /> -->
 <br/>
 <br/>
 <br/>
@@ -39,31 +39,32 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Guitar solos Bikes ♥ 
 
-### Connect with me:
-
-[<img align="left" alt="mastermind | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mastermind | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mastermind | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ### Languages and Tools:
+[![HTML Badge](https://img.shields.io/badge/-HTML-E74C3C?style=for-the-badge&labelColor=black&logo=html5&logoColor=E74C3C)](https://www.w3schools.com/html/)
+[![CSS Badge](https://img.shields.io/badge/-CSS-1093ef?style=for-the-badge&labelColor=black&logo=css3&logoColor=1093ef)](https://www.w3schools.com/css/) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://www.w3schools.com/js/DEFAULT.asp) 
+[![SASS Badge](https://img.shields.io/badge/-SASS-B4648F?style=for-the-badge&labelColor=black&logo=sass&logoColor=B4648F)](https://sass-lang.com/) 
+[![Tailwindcss Badge](https://img.shields.io/badge/-tailwindcss-61DAFB?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=2471A3)](https://tailwindcss.com) 
+[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=563D7C)](https://material-ui.com/) 
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://reactjs.org/)
+[![React Native Badge](https://img.shields.io/badge/-React--Native-007acc?style=for-the-badge&labelColor=black&logo=react&logoColor=007acc)](https://reactnative.dev/)
+[![Redux Badge](https://img.shields.io/badge/-Redux-eb14b4?style=for-the-badge&labelColor=black&logo=redux&logoColor=eb14b4)](https://reactjs.org/) 
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://nodejs.org/en/) 
+[![Express Badge](https://img.shields.io/badge/-Express-d3da05?style=for-the-badge&labelColor=black&logo=express&logoColor=d3da05)](https://expressjs.com/) 
+[![Mongo DB Badge](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)](https://www.mongodb.com/)
+[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-2F5F85?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=2F5F85)](https://www.postgresql.org/)
+[![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&labelColor=black&logo=jest&logoColor=C21325)](https://jestjs.io/) 
+[![JQuery Badge](https://img.shields.io/badge/-JQuery-71A9D0?style=for-the-badge&labelColor=black&logo=jquery&logoColor=71A9D0)](https://jquery.com/)
+[![Git Badge](https://img.shields.io/badge/-Git-F94E28?style=for-the-badge&labelColor=black&logo=git&logoColor=F94E28)](https://git-scm.com/) 
+[![Heroku Badge](https://img.shields.io/badge/-Heroku-644987?style=for-the-badge&labelColor=black&logo=Heroku&logoColor=644987)](https://id.heroku.com/)
+[![Netlify Badge](https://img.shields.io/badge/-Netlify-41A6BD?style=for-the-badge&labelColor=black&logo=Netlify&logoColor=41A6BD)](https://id.heroku.com/) 
+[![Socket.io Badge](https://img.shields.io/badge/-Socket.io-ffffff?style=for-the-badge&labelColor=black&logo=Socket.io&logoColor=ffffff)](https://id.heroku.com/) 
+[![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=FF6C37)](https://id.heroku.com/) 
+[![Slack Badge](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&labelColor=black&logo=slack&logoColor=white)](https://id.heroku.com/)<br/>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Vscode]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][Html]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][Css]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][Sass]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][Javascript]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][React]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][Sql]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][Mongo]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://www.hbmacit.com/wp-content/uploads/2020/09/python_logo.png" />][Python]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://splendornet.com/wp-content/uploads/2019/01/django.png" />][Django]
 
 <br />
 <br />
@@ -105,7 +106,13 @@
 
 
 
+## Contact me:
 
+<p align="left">
+<a href = "linkedin.com/in/rami-zaitoun-7a127198/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> </a>
+
+
+</p>
 
 
 
