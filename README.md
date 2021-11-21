@@ -1,38 +1,37 @@
 <img align="right" alt="mastermind" width="200px" src="https://c.tenor.com/rR90LoR-KUIAAAAj/codemodeon-code.gif" />
 
-<h1 align="center">Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Rami Zaitoun </h1>
-
-
-
-<br/>
-<br/>
+## < Hello programmers, hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> />
 
 <!-- <img align="right" alt="mastermind" width="200px" src="https://c.tenor.com/7E7BUWA1KxwAAAAj/gobo-webee.gif" />
 <img align="left" alt="mastermind" width="200px" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" /> -->
 <br/>
-<br/>
-<br/>
+
+<img align="left" alt="mastermind" width="200px" src="https://avatars.githubusercontent.com/u/3904529?s=280&v=4" />
+
+I'm Rami a Software Developer based in Amman,jordan. I'm experienced in JavaScript, React, React Native, and Node.js. I have a one year of experience in software development. I love that technology is constantly changing because it allows me to keep my mind active as I continue to learn new things. I made the jump into software development by learning through free courses and then finally completing a six month coding bootcamp with ASAC powered by code fellows.
+
+I love making new connections so please reach out to me on the following social accounts.
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rami-zaitoun-7a127198/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/MastRmin)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ramizaitoun/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flatt-square&logo=gmail&logoColor=white)](mailto:ramikhzaitoun@gmail.com)
+[![Dev Badge](https://img.shields.io/badge/-Dev-000000?style=flat-square&logo=Dev.to&logoColor=white)](https://dev.to/mastermind6666)
 
 
-
-
-
-
-
-## I'm a Front-End Developer,!!
 
 <img align="right" alt="mastermind" width="200px" src="https://c.tenor.com/NCRHhqkXrJYAAAAj/programmers-go-internet.gif" />
 
 
-
+## Quotes 
 - 🔭 it's not matter how much time you have it's how you use it
-- 🌱 I’m currently learning everything 💻🤣 😢
-- 👯 I’m looking to collaborate with other devlopers
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Guitar solos Bikes ♥ 
+- 🌱 I'd rather make mistakes than make nothing at all.
+- 👯 The 'best' is wherever I decide to set the bar each day.
+- 🥅 Even when you're at your worst, you still have something you can give up.
+- ⚡ Fear is the first of many foes.
 
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Node.js)](https://github.com/MasteRminD6666)
 
-<br />
 
 ### Languages and Tools:
 [![HTML Badge](https://img.shields.io/badge/-HTML-E74C3C?style=for-the-badge&labelColor=black&logo=html5&logoColor=E74C3C)](https://www.w3schools.com/html/)
@@ -62,6 +61,14 @@
 <br />
 
 ---
+
+### ![GitHub Img](./img/GitHub-Mark-32px.png) GitHub Stats
+
+<a href="https://github.com/MasteRminD6666/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MasteRminD6666&show_icons=true&theme= tokyonight" />
+</a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arpatterson31&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 [![Porfolio](https://static.wixstatic.com/media/6cef79_2ed14995a4104c3ab61566bce9992255~mv2.gif)](https://ramizaitoun-portfolio.netlify.app)
