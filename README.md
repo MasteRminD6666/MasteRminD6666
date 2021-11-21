@@ -19,7 +19,8 @@ I love making new connections so please reach out to me on the following social 
 [![Dev Badge](https://img.shields.io/badge/-Dev-000000?style=flat-square&logo=Dev.to&logoColor=white)](https://dev.to/mastermind6666)
 
 
-
+<br>
+<br>
 <img align="right" alt="mastermind" width="200px" src="https://c.tenor.com/NCRHhqkXrJYAAAAj/programmers-go-internet.gif" />
 
 
