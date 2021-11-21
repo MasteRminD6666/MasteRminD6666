@@ -8,7 +8,7 @@
 
 <img align="left" alt="mastermind" width="200px" src="https://avatars.githubusercontent.com/u/3904529?s=280&v=4" />
 
-I'm Rami a Software Developer based in Amman,jordan. I'm experienced in JavaScript, React, React Native, and Node.js. I have a one year of experience in software development. I love that technology is constantly changing because it allows me to keep my mind active as I continue to learn new things. I made the jump into software development by learning through free courses and then finally completing a six month coding bootcamp with ASAC powered by code fellows.
+I'm Rami a Software Developer based in Amman,jordan. I'm experienced in JavaScript, React, React Native, and Node.js. I have a one year of experience in software development. I love that technology is constantly changing because it allows me to keep my mind active as I continue to learn new things. I made the jump into software development during the university by learning through free courses and then finally completed a six month coding bootcamp with ASAC powered by code fellows.
 
 I love making new connections so please reach out to me on the following social accounts.
 
@@ -19,17 +19,20 @@ I love making new connections so please reach out to me on the following social 
 [![Dev Badge](https://img.shields.io/badge/-Dev-000000?style=flat-square&logo=Dev.to&logoColor=white)](https://dev.to/mastermind6666)
 
 
-<br>
-<br>
-<img align="right" alt="mastermind" width="200px" src="https://c.tenor.com/NCRHhqkXrJYAAAAj/programmers-go-internet.gif" />
+
 
 
 ## Quotes 
+ <img align="right" alt="mastermind" width="200px"  src="https://c.tenor.com/NCRHhqkXrJYAAAAj/programmers-go-internet.gif" />
+ 
+- ⚡ Fear is the first of many foes.
 - 🔭 it's not matter how much time you have it's how you use it
 - 🌱 I'd rather make mistakes than make nothing at all.
 - 👯 The 'best' is wherever I decide to set the bar each day.
 - 🥅 Even when you're at your worst, you still have something you can give up.
-- ⚡ Fear is the first of many foes.
+
+ 
+
 
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Node.js)](https://github.com/MasteRminD6666)
 
