@@ -1,7 +1,7 @@
 <img align="right" alt="mastermind" width="200px" src="https://c.tenor.com/rR90LoR-KUIAAAAj/codemodeon-code.gif" />
 
 ## < Hello programmers, hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> />
-
+<img align="center" alt="mastermind" width="800px" src="./assets/fdaec3a3-2ca5-455b-8865-993d4743105a.jfif" />
 <!-- <img align="right" alt="mastermind" width="200px" src="https://c.tenor.com/7E7BUWA1KxwAAAAj/gobo-webee.gif" />
 <img align="left" alt="mastermind" width="200px" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" /> -->
 <br/>
