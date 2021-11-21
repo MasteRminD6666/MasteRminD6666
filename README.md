@@ -8,7 +8,7 @@
 
 <img align="left" alt="mastermind" width="200px" src="https://avatars.githubusercontent.com/u/3904529?s=280&v=4" />
 
-I'm Rami a Software Developer based in Amman,jordan. I'm experienced in JavaScript, React, React Native, and Node.js. I have a one year of experience in software development. I love that technology is constantly changing because it allows me to keep my mind active as I continue to learn new things. I made the jump into software development by learning through free courses and then finally completing a six month coding bootcamp with ASAC powered by code fellows.
+I'm Rami a Software Developer based in Amman,jordan. I'm experienced in JavaScript, React, React Native, and Node.js. I have a one year of experience in software development. I love that technology is constantly changing because it allows me to keep my mind active as I continue to learn new things. I made the jump into software development during the university by learning through free courses and then finally completed a six month coding bootcamp with ASAC powered by code fellows.
 
 I love making new connections so please reach out to me on the following social accounts.
 
