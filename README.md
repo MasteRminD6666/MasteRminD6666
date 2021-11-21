@@ -62,54 +62,35 @@ I love making new connections so please reach out to me on the following social 
 
 ---
 
-### ![GitHub Img](./img/GitHub-Mark-32px.png) GitHub Stats
+### ![GitHub Img](./assets/GitHub-Mark-32px.png) GitHub Stats
 
-<a href="https://github.com/MasteRminD6666/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MasteRminD6666&show_icons=true&theme= tokyonight" />
-</a>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasteRminD6666&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arpatterson31&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 [![Porfolio](https://static.wixstatic.com/media/6cef79_2ed14995a4104c3ab61566bce9992255~mv2.gif)](https://ramizaitoun-portfolio.netlify.app)
-### 📕 Latest Topics I Read
-
-<!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://github.com/MasteRminD6666/reading-notes)
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasteRminD6666&show_icons=true&theme=radical)
+
+### 💖 Thanks for stopping by! 💖
+
+![Profile views](https://gpvc.arturio.dev/MasteRminD6666)
 
 
 
 
-
-
-
-
-<details>
+<!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#11](https://github.com/Coders-911/Fitness-Guide/pull/36) in [Coders-911/Fitness-Guide](https://github.com/Coders-911/Fitness-Guide)
-2. 🎉 Merged PR [#10](https://github.com/Coders-911/Fitness-Guide/pull/42) in [Coders-911/Fitness-Guide](https://github.com/Coders-911/Fitness-Guide)
-<!--END_SECTION:activity-->
+   -->
+<!-- START_SECTION:activity-->
+<!-- 1. ❌ Closed PR [#11](https://github.com/Coders-911/Fitness-Guide/pull/36) in [Coders-911/Fitness-Guide](https://github.com/Coders-911/Fitness-Guide) -->
+<!-- 2. 🎉 Merged PR [#10](https://github.com/Coders-911/Fitness-Guide/pull/42) in [Coders-911/Fitness-Guide](https://github.com/Coders-911/Fitness-Guide) -->
+<!--END_SECTION:activity -->
 
-</details>
+<!-- </details> -->
 
 
 
-## Contact me:
-
-<p align="left">
-<a href = "linkedin.com/in/rami-zaitoun-7a127198/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> </a>
 
 
 </p>
