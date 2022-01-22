@@ -9,9 +9,8 @@
 
 <img align="left" alt="mastermind" width="200px" src="https://avatars.githubusercontent.com/u/3904529?s=280&v=4" />
 
-My name is Rami i'm a Software Developer based in Amman,jordan. I'm experienced in JavaScript, React, React Native, and Node.js. I have a one year of experience in software development. I love that technology is constantly changing because it allows me to keep my mind active as I continue to learn new things. I made the jump into software development during the university by learning through free courses and then finally completed a six month coding bootcamp with ASAC powered by code fellows.
+My name is Rami i'm a Software Developer based in Amman,jordan. I'm experienced in JavaScript, React, and Node.js. I have a one year of experience in software development. I made the jump into software development during the university by learning through free courses and then  completed a six month coding bootcamp with Code Fellows.
 
-I love making new connections so please reach out to me on the following social accounts.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rami-zaitoun-7a127198/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/MastRmin)
@@ -23,14 +22,8 @@ I love making new connections so please reach out to me on the following social 
 
 
 
-## Quotes 
  <img align="right" alt="mastermind" width="200px"  src="https://c.tenor.com/NCRHhqkXrJYAAAAj/programmers-go-internet.gif" />
  
-- ⚡ Fear is the first of many foes.
-- 🔭 it's not matter how much time you have it's how you use it
-- 🌱 I'd rather make mistakes than make nothing at all.
-- 👯 The 'best' is wherever I decide to set the bar each day.
-- 🥅 Even when you're at your worst, you still have something you can give up.
 
  
 
