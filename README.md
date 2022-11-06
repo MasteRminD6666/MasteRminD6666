@@ -59,7 +59,7 @@ My name is Rami i'm a Software Developer based in Amman,jordan. I'm experienced 
 <br />
 
 ---
-
+[![wakatime](https://wakatime.com/badge/user/3880dc50-3a6c-48f8-b6b4-83429f52f447.svg)](https://wakatime.com/@3880dc50-3a6c-48f8-b6b4-83429f52f447)
 ### ![GitHub Img](./assets/GitHub-Mark-32px.png) GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasteRminD6666&show_icons=true&theme=radical)
