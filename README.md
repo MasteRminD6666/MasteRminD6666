@@ -73,7 +73,7 @@ My name is Rami i'm a Software Developer based in Amman,jordan. I'm experienced 
 ### 💖 Thanks for stopping by! 💖
 
 ![Profile views](https://gpvc.arturio.dev/MasteRminD6666)
-
+[![wakatime](https://wakatime.com/badge/user/3880dc50-3a6c-48f8-b6b4-83429f52f447/project/7143d6bd-2506-41ab-9c02-9ef8d86b5e47.svg)](https://wakatime.com/badge/user/3880dc50-3a6c-48f8-b6b4-83429f52f447/project/7143d6bd-2506-41ab-9c02-9ef8d86b5e47)
 
 
 
@@ -93,6 +93,17 @@ My name is Rami i'm a Software Developer based in Amman,jordan. I'm experienced 
 
 </p>
 
+<p>
+  <a href="https://www.buymeacoffee.com/ramikhzaitg" title="https://www.buymeacoffee.com/ramikhzaitg">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="auto" alt="Buy me a coffee in buymeacoffee.com"  />
+  </a>
+	<a href="https://ko-fi.com/marsidev" title="https://ko-fi.com/marsidev">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="auto" alt="Buy me a coffee in ko-fi.com"  />
+  </a>
+  <a href="https://cafecito.app/marsi" title="https://cafecito.app/marsi">
+    <img src="https://cdn.cafecito.app/imgs/buttons/button_6.svg" height="50" width="auto" alt="Invítame un café en cafecito.app" />
+  </a>
+</p>
 
 
 [website]: https://mastermind6666.github.io/Rami_Zaitoun/
