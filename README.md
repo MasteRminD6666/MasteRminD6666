@@ -73,7 +73,7 @@ My name is Rami i'm a Software Developer based in Amman,jordan. I'm experienced 
 ### 💖 Thanks for stopping by! 💖
 
 ![Profile views](https://gpvc.arturio.dev/MasteRminD6666)
-[![wakatime](https://wakatime.com/badge/user/3880dc50-3a6c-48f8-b6b4-83429f52f447/project/7143d6bd-2506-41ab-9c02-9ef8d86b5e47.svg)](https://wakatime.com/badge/user/3880dc50-3a6c-48f8-b6b4-83429f52f447/project/7143d6bd-2506-41ab-9c02-9ef8d86b5e47)
+[![wakatime](https://wakatime.com/badge/user/3880dc50-3a6c-48f8-b6b4-83429f52f447.svg)](https://wakatime.com/@3880dc50-3a6c-48f8-b6b4-83429f52f447)
 
 
 
