@@ -97,12 +97,10 @@ My name is Rami i'm a Software Developer based in Amman,jordan. I'm experienced 
   <a href="https://www.buymeacoffee.com/ramikhzaitg" title="https://www.buymeacoffee.com/ramikhzaitg">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="auto" alt="Buy me a coffee in buymeacoffee.com"  />
   </a>
-	<a href="https://ko-fi.com/marsidev" title="https://ko-fi.com/marsidev">
+	<a href="[https://ko-fi.com/marside](https://ko-fi.com/ramizaitoun)v" title="[https://ko-fi.com/marsidev](https://ko-fi.com/ramizaitoun)">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="auto" alt="Buy me a coffee in ko-fi.com"  />
   </a>
-  <a href="https://cafecito.app/marsi" title="https://cafecito.app/marsi">
-    <img src="https://cdn.cafecito.app/imgs/buttons/button_6.svg" height="50" width="auto" alt="Invítame un café en cafecito.app" />
-  </a>
+ 
 </p>
 
 
