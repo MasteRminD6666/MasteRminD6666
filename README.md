@@ -1,6 +1,5 @@
-<img align="right" alt="mastermind" width="200px" src="https://c.tenor.com/rR90LoR-KUIAAAAj/codemodeon-code.gif" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=1AB7F7&vCenter=true&width=435&lines=Rami+Zaitoun++is+fighting+for+;the+people+behind+the+pixels)](https://git.io/typing-svg)
 
-## < Hello programmers,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> />
 <img align="center" alt="mastermind" width="1000px" src="./assets/fdaec3a3-2ca5-455b-8865-993d4743105a.png" />
 
 <!-- <img align="right" alt="mastermind" width="200px" src="https://c.tenor.com/7E7BUWA1KxwAAAAj/gobo-webee.gif" />
@@ -59,7 +58,6 @@ My name is Rami i'm a Software Developer based in Amman,jordan. I'm experienced 
 <br />
 
 ---
-[![wakatime](https://wakatime.com/badge/user/3880dc50-3a6c-48f8-b6b4-83429f52f447.svg)](https://wakatime.com/@3880dc50-3a6c-48f8-b6b4-83429f52f447)
 ### ![GitHub Img](./assets/GitHub-Mark-32px.png) GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasteRminD6666&show_icons=true&theme=radical)
